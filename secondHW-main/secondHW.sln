@@ -1,0 +1,18 @@
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWTumakov", "HWTumakov\HWTumakovTumakov.csproj", "{9384A50B-45BC-4B85-90E3-EED81D7973CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLatypova", "HWLatypova\HWLatypova.csproj", "{00551199-BADB-4772-9C88-F99F1FAB393E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A9368F5-8582-4552-A301-C980813E84D2}
+	EndGlobalSection
+EndGlobal
